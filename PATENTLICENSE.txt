@@ -1,0 +1,28 @@
+Each contributor to this software and the copyright holder (the "Developer") grants you a 
+royalty-free patent license to redistribute and use this software in source and binary forms, with 
+or without modification, where such license applies only to those applies only to those patent 
+claims, both currently owned by the Developer and acquired in the future, licensable by the 
+Developer that are necessarily infringed by this software, and that would not be infringed only as 
+a consequence of further modification of this software, subject to the following terms:
+
+	1. Redistributions of source code must retain the above copyright notice, this list of 
+	conditions and the following disclaimer.
+
+    2. Redistributions in binary form must reproduce the above copyright notice, this list of 
+    conditions and the following disclaimer in the documentation and/or other materials provided 
+    with the distribution.
+
+	3. If you institute patent litigation against any entity (including a cross-claim or 
+	counterclaim in a lawsuit) alleging that this software or one or more contribution(s) 
+	incorporated within this software constitutes direct or contributory patent infringement, then 
+	any intellectual property licenses granted to you for this software shall terminate as of the 
+	date such litigation is filed.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED 
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS 
+FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE 
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT 
+NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR 
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
